@@ -1,3 +1,3 @@
 # FirebaseNotificationKotlin
 
-Please add your google-json.services file.
+Please add your google-services.json file.
