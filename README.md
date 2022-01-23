@@ -1,3 +1,4 @@
 # FirebaseNotificationKotlin
 
-Please add your google-services.json file.
+<p><a href="https://rrtutors.com/tutorials/pushnotification-with-image-firebase-fcm">Firebase Image Push Notification in Android with kotlin code</a></p>
+.
